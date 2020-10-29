@@ -11,7 +11,7 @@ Prefered Tool: Microsoft Visual Studio Code
 Application Screenshots:
 
 Home Screen
-![](screenshots/1.JPG)
+![]
 
 To add a new expense
 ![](screenshots/2.JPG)
