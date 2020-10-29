@@ -11,28 +11,28 @@ Prefered Tool: Microsoft Visual Studio Code
 Application Screenshots:
 
 Home Screen
-![]
+![](screenshots/1.jpg)
 
 To add a new expense
-![](screenshots/2.JPG)
+![](screenshots/2.jpg)
 
-![](screenshots/4.JPG)
+![](screenshots/4.jpg)
 
-![](screenshots/6.JPG)
+![](screenshots/6.jpg)
 
-![](screenshots/7.JPG)
+![](screenshots/7.jpg)
 
-![](screenshots/8.JPG)
+![](screenshots/8.jpg)
 
 Date picker to select a date
-![](screenshots/3.JPG)
+![](screenshots/3.jpg)
 
 After expense is added
-![](screenshots/5.JPG)
+![](screenshots/5.jpg)
 
-![](screenshots/9.JPG)
+![](screenshots/9.jpg)
 
 After deleting an expense
-![](screenshots/10.JPG)
+![](screenshots/10.jpg)
 
-![](screenshots/11.JPG)
+![](screenshots/11.jpg)
