@@ -1,16 +1,38 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+"Expense Tracker" is a flutter project which is mainly designed for both an Android and an iOS device to save the expense of an individual on a daily basis. It includes various widgets like ListView, Bar-Charts, Expanded, Flat & Raised Button, Date Picker, etc. from Flutter to give user a better UI control all over the application with the help of designing concepts of Material UI.
 
-## Getting Started
+Technology Used:
+  1. Dart(Flutter)
+  2. Material UI
+  
+Prefered Tool: Microsoft Visual Studio Code
 
-This project is a starting point for a Flutter application.
+Application Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
+Home Screen
+![](screenshots/1.JPG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To add a new expense
+![](screenshots/2.JPG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](screenshots/4.JPG)
+
+![](screenshots/6.JPG)
+
+![](screenshots/7.JPG)
+
+![](screenshots/8.JPG)
+
+Date picker to select a date
+![](screenshots/3.JPG)
+
+After expense is added
+![](screenshots/5.JPG)
+
+![](screenshots/9.JPG)
+
+After deleting an expense
+![](screenshots/10.JPG)
+
+![](screenshots/11.JPG)
